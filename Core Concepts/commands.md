@@ -1,0 +1,3 @@
+|Command | Description|
+|:-------|:-------|
+|kubectl get pods|create a new pod|
