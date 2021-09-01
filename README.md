@@ -1,6 +1,7 @@
 # CKAD-cheat-sheet
 this repo contains Kubernetes commands and Yaml templates 
-                            ...
+
+                                               ...
 
 
 Other resources:
